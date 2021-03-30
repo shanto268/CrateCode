@@ -1,0 +1,6 @@
+.DS_store
+*.bin
+secrets.py
+Notify.py
+Emailer.py
+*.sh
